@@ -38,6 +38,10 @@ Links to additional resources
 * [Offensive Basics with an Azure Lab](https://www.blackhillsinfosec.com/impacket-offense-basics-with-an-azure-lab/)
 * [SMB Relay](https://www.blackhillsinfosec.com/an-smb-relay-race-how-to-exploit-llmnr-and-smb-message-signing-for-fun-and-profit/)
 * [Bypass NTLM Message Integrity Check](https://www.blackhillsinfosec.com/bypass-ntlm-message-integrity-check-drop-the-mic/)
+* [Shadow Credential](https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab)
+* [Coercion & Relays Webcast](https://www.blackhillsinfosec.com/webcast-coercions-and-relays-the-first-cred-is-the-deepest-w-gabriel-prudhomme/) &#x1F3A6;
+* [SCCM Exploitation Webcast](https://www.youtube.com/live/W9PC9erm_pI?si=CQBm226l-UxbXM_B)
+* [SCCM Exploitation Slides](https://www.blackhillsinfosec.com/wp-content/uploads/2023/08/SLIDES_SCCM-Exploitation-The-First-Cred-Is-The-Deepest-II-Gabriel-Prudhomme-BHIS.pdf) &#x1F3A6;
 
 ## Sentinel & Sysmon
 * [Parsing Sysmon Logs on Sentinel](https://www.blackhillsinfosec.com/parsing-sysmon-logs-on-microsoft-sentinel/)
