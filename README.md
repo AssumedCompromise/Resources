@@ -19,6 +19,7 @@ Links to additional resources
 * [Atomic Purple Team](https://github.com/DefensiveOrigins/AtomicPurpleTeam)
 * [Top 10 Reasons You Got Hacked](https://www.blackhillsinfosec.com/top-ten-list-of-why-you-got-hacked-this-year-2023-2024/)
 * [How to Applied Purple Teaming Lab Build](https://www.blackhillsinfosec.com/how-to-applied-purple-teaming-lab-build-on-azure-with-terraform/)
+* [Atomic Red Team Class](https://www.antisyphontraining.com/course/purple-teaming-attack-emulation-reporting-and-detection-identification-with-carrie-roberts/)
   
 ## Hashcat 
 * [Cheatsheet](https://github.com/AssumedCompromise/AC-CourseContent/blob/main/9-Others/Cheatsheets/HashcatCheatSheet.v2018.1.pdf)
