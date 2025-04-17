@@ -85,6 +85,5 @@ Links to additional resources
 * https://www.blackhillsinfosec.com/small-medium-business-security-strategies-part-2-inventory/
 * https://www.blackhillsinfosec.com/small-and-medium-business-security-strategies-part-3-inventory-part-2-software/
 * https://www.blackhillsinfosec.com/small-and-medium-business-security-strategies-part-4-csc-3-vulnerability-management/
-* https://www.blackhillsinfosec.com/small-and-medium-business-security-strategies-part-4-csc-3-vulnerability-management/
 * https://www.blackhillsinfosec.com/small-and-medium-business-security-strategies-part-5/
 
