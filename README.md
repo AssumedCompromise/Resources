@@ -80,3 +80,11 @@ Links to additional resources
 * https://metactf.com/ &#x1F97C;
 * [Your 5 Year Path: Success in Infosec](https://youtu.be/Uv-AfK7PkxU?si=LdKV_E-kVxZy5F4y) &#x1F3A6;
 
+## Small & Medium 
+* https://www.blackhillsinfosec.com/small-medium-business-security-strategies-part-1-introduction/
+* https://www.blackhillsinfosec.com/small-medium-business-security-strategies-part-2-inventory/
+* https://www.blackhillsinfosec.com/small-and-medium-business-security-strategies-part-3-inventory-part-2-software/
+* https://www.blackhillsinfosec.com/small-and-medium-business-security-strategies-part-4-csc-3-vulnerability-management/
+* https://www.blackhillsinfosec.com/small-and-medium-business-security-strategies-part-4-csc-3-vulnerability-management/
+* https://www.blackhillsinfosec.com/small-and-medium-business-security-strategies-part-5/
+
