@@ -65,14 +65,14 @@ Links to additional resources
 
 ## Tools 
 * [PlumHound Blog](https://www.blackhillsinfosec.com/plumhound-reporting-engine-for-bloodhoundad/)
-* [PlumHounnd](https://github.com/PlumHound/PlumHound)
+* [PlumHound](https://github.com/PlumHound/PlumHound)
 
 ## Trying to break into security?
 * https://www.blackhillsinfosec.com/how-to-put-yourself-out-there/
 * https://www.blackhillsinfosec.com/john-strands-5-phase-plan/
 * https://cyberisfull.com/
-* https://www.hackthebox.com/
-* https://tryhackme.com/
-* https://metactf.com/
+* https://www.hackthebox.com/ &#x1F97C;
+* https://tryhackme.com/ &#x1F97C;
+* https://metactf.com/ &#x1F97C;
 * [Your 5 Year Path: Success in Infosec](https://youtu.be/Uv-AfK7PkxU?si=LdKV_E-kVxZy5F4y) &#x1F3A6;
 
