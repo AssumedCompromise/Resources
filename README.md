@@ -55,11 +55,9 @@ Links to additional resources
 
 
 ## Stealer Logs 
-
 * https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/
 
 ## SSH 
-
 * https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-193a
 * https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a
 * https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a
@@ -68,4 +66,13 @@ Links to additional resources
 ## Tools 
 * [PlumHound Blog](https://www.blackhillsinfosec.com/plumhound-reporting-engine-for-bloodhoundad/)
 * [PlumHounnd](https://github.com/PlumHound/PlumHound)
+
+## Trying to break into security?
+* https://www.blackhillsinfosec.com/how-to-put-yourself-out-there/
+* https://www.blackhillsinfosec.com/john-strands-5-phase-plan/
+* https://cyberisfull.com/
+* https://www.hackthebox.com/
+* https://tryhackme.com/
+* https://metactf.com/
+* [Your 5 Year Path: Success in Infosec](https://youtu.be/Uv-AfK7PkxU?si=LdKV_E-kVxZy5F4y) &#x1F3A6;
 
