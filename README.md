@@ -53,7 +53,7 @@ Links to additional resources
 * [Sysmom-KQL Parser](https://github.com/AssumedCompromise/AC-CourseContent/blob/main/9-Others/Sysmon-KQL-Parser.md)
 * [Attribution](https://www.blackhillsinfosec.com/category/author/jordan-drysdale/page/2/)
 * [Sysmon Event ID Breakdown](https://www.blackhillsinfosec.com/a-sysmon-event-id-breakdown/)
-* [Event IDs](https://github.com/AssumedCompromise/AC-CourseContent/blob/main/9-Others/Cheatsheets/EventIDs.md)
+* [Event IDs](https://github.com/AssumedCompromise/Resources/blob/main/EvIDs.md)
 * [Catch Cobalt Strike with Sentinel](https://www.blackhillsinfosec.com/azure-sentinel-quick-deploy-with-cyb3rward0gs-sentinel-to-go-lets-catch-cobalt-strike/)
 * [Azure Security Basics](https://www.blackhillsinfosec.com/azure-security-basics-log-analytics-security-center-and-sentinel/)
 * [Windows Optics](https://www.blackhillsinfosec.com/how-to-deploy-windows-optics-commands-downloads-instructions-and-screenshots/)
