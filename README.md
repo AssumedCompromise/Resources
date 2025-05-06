@@ -50,7 +50,7 @@ Links to additional resources
 * [Auditing Changes to msDSKeyCredentialLink](https://www.blackhillsinfosec.com/enable-auditing-of-changes-to-msds-keycredentiallink/)
 * [Community Guide](https://github.com/AssumedCompromise/AC-CourseContent/blob/main/README.md?plain=1#L252)
 * [Sysmon Modular](https://github.com/olafhartong/sysmon-modular)  
-* [Sysmom-KQL Parser](https://github.com/AssumedCompromise/AC-CourseContent/blob/main/9-Others/Sysmon-KQL-Parser.md)
+* [Sysmom-KQL Parser](https://github.com/AssumedCompromise/Resources/blob/main/Sysmon-KQL-Parser.md)
 * [Attribution](https://www.blackhillsinfosec.com/category/author/jordan-drysdale/page/2/)
 * [Sysmon Event ID Breakdown](https://www.blackhillsinfosec.com/a-sysmon-event-id-breakdown/)
 * [Event IDs](https://github.com/AssumedCompromise/Resources/blob/main/EvIDs.md)
