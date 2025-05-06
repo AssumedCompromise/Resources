@@ -73,6 +73,7 @@ Links to additional resources
 ## Tools 
 * [PlumHound Blog](https://www.blackhillsinfosec.com/plumhound-reporting-engine-for-bloodhoundad/)
 * [PlumHound](https://github.com/PlumHound/PlumHound)
+* [Cloak](https://github.com/WhosLogan/Cloak)
 
 ## Trying to break into security?
 * https://www.blackhillsinfosec.com/how-to-put-yourself-out-there/
