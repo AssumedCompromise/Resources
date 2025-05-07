@@ -76,6 +76,8 @@ Links to additional resources
 * [PlumHound](https://github.com/PlumHound/PlumHound)
 * [Cloak](https://github.com/WhosLogan/Cloak)
 * [Mitm6](https://github.com/dirkjanm/mitm6)
+* [MFA](https://github.com/dafthack/MFASweep)
+* [GraphRunner](https://github.com/dafthack/GraphRunner/wiki/)
 
 ## Trying to break into security?
 * https://www.blackhillsinfosec.com/how-to-put-yourself-out-there/
