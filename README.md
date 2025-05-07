@@ -45,6 +45,7 @@ Links to additional resources
 * [Coercion & Relays Webcast](https://www.blackhillsinfosec.com/webcast-coercions-and-relays-the-first-cred-is-the-deepest-w-gabriel-prudhomme/) &#x1F3A6;
 * [SCCM Exploitation Webcast](https://www.youtube.com/live/W9PC9erm_pI?si=CQBm226l-UxbXM_B)
 * [SCCM Exploitation Slides](https://www.blackhillsinfosec.com/wp-content/uploads/2023/08/SLIDES_SCCM-Exploitation-The-First-Cred-Is-The-Deepest-II-Gabriel-Prudhomme-BHIS.pdf) &#x1F3A6;
+* [MITM6](https://www.blackhillsinfosec.com/mitm6-strikes-again-the-dark-side-of-ipv6/)
 
 ## Sentinel & Sysmon
 * [Parsing Sysmon Logs on Sentinel](https://www.blackhillsinfosec.com/parsing-sysmon-logs-on-microsoft-sentinel/)
@@ -74,6 +75,7 @@ Links to additional resources
 * [PlumHound Blog](https://www.blackhillsinfosec.com/plumhound-reporting-engine-for-bloodhoundad/)
 * [PlumHound](https://github.com/PlumHound/PlumHound)
 * [Cloak](https://github.com/WhosLogan/Cloak)
+* [Mitm6](https://github.com/dirkjanm/mitm6)
 
 ## Trying to break into security?
 * https://www.blackhillsinfosec.com/how-to-put-yourself-out-there/
