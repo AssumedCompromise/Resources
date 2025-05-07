@@ -64,6 +64,7 @@ Links to additional resources
 
 ## Stealer Logs 
 * https://www.blackhillsinfosec.com/your-browser-is-not-a-safe-space/
+* [Know the Unknows (Breach Data)](https://youtu.be/L3f9do5mtT8)
 
 ## SSH 
 * https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-193a
