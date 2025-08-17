@@ -10,6 +10,7 @@ Links to additional resources
 * Privilege Escalation [ESC 2 & 3](https://www.blackhillsinfosec.com/abusing-active-directory-certificate-services-part-4/)
 * Privilege Escalation [ESC 4](https://www.blackhillsinfosec.com/abusing-active-directory-certificate-services-part-2/)
 * Privilege Escalation [ESC8](https://www.blackhillsinfosec.com/abusing-active-directory-certificate-services-part-3/)
+* [Detecting ADCS Privilege Escalation](https://www.blackhillsinfosec.com/detecting-adcs-privilege-escalation/)
 * [SpecterOps Whitepaper](https://specterops.io/wp-content/uploads/sites/3/2022/06/Certified_Pre-Owned.pdf)
 * [SpecterOps Blog](https://posts.specterops.io/certified-pre-owned-d95910965cd2)
   
