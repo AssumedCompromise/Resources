@@ -13,7 +13,7 @@ Links to additional resources
 * [Detecting ADCS Privilege Escalation](https://www.blackhillsinfosec.com/detecting-adcs-privilege-escalation/)
 * [SpecterOps Whitepaper](https://specterops.io/wp-content/uploads/sites/3/2022/06/Certified_Pre-Owned.pdf)
 * [SpecterOps Blog](https://posts.specterops.io/certified-pre-owned-d95910965cd2)
-  
+* [Event Queries](https://github.com/AssumedCompromise/Resources/blob/main/ADCS_KQL.md) 
 
 ## Purple Team
 * [Threat Hunter Playbook](https://threathunterplaybook.com/)
